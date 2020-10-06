@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pion/randutil"
+	"github.com/carrotsong/randutil"
 )
 
 const (
